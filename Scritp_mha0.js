@@ -3,7 +3,6 @@ $(`<img src="sico/z1d158q26610.gif" class="fr" style="width:100%;margin-top: 1px
 `).insertBefore('.nav-tabs');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.light.break').css('color','#425A7A')
-$('.nav-tabs>li>a').css({"background-image":"url(#)"});
 $('.s1.fa.fa-user.label.badgex.label-as-badge.label-success').css('color','#ffffff')
 $('.loginstat').css('background-color','#425A7A')
 $('.uzr.fl.corner.borderg.mm ').css('sold','#425A7A')
@@ -50,7 +49,8 @@ $('.nav-tabs>li>a').css('color','#425A7A')
 
 $('.u-msg.break.fl').css('color','#000000')
 
-$(`<center><div width="99.5%" style="background-image:url(emo/z1d3bj4hit10.png);color: #425A7A;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;"><font style="background-color: #fff;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;">مرحبـاً بكـم جميعاً في شـات عين   </font></div><center/>`).insertBefore('#d2');
+$(`<center><div style="height: 20%!important; "  id="ye" margin: 2px;" class="fa fa-heartbeat label label-primary" type="button" data-toggle="collapse" data-target="#demo" aria-expanded="false" aria-controls="collapseExample">&nbsp; ● ·( إضغـط هُنــا 🎶  )· ● &nbsp;</div><div class="collapse" id="demo"><center><div class="well"><p lass="bg-primary"></i></p>  🎶 soundcloud 🎶 </p><iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://m.soundcloud.com/"></iframe>`).insertBefore('#d2');
+
 $(`<div style="width:100%;"  id="" class="btn btn-primary btn-ali" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">إضغـط هُنآ </div>
 <div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary">  </p>إدآرة ألمـؤقع / ليتني    </p> <i class="fa fa-"></i>
 ‏  <center></div></div></div>`).insertAfter('.nav-tabs');
@@ -59,7 +59,7 @@ $(`<button style="width:24px;margin:2px;" style="margin-top:2px;margin-left:2px;
 $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span> لـوحة تحكم / شآت عين") 
 $('.label.border.btn.label-danger.tc.fl').css('background-color','#f0f0f0')
 $('.label.border.btn.label-danger.tc.fl').css('color','#425A7A')
-$('.label.fl.nosel.label.pnhead').css({"background-image":"url(emo/z1d3bj4hit10.png)"});
+
 $('.room.borderg.hand.nosel.fl').css('color','#44464A');
 
 $(`<div style=" color: #FF0000;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', Fontawesome">الاعلانات للمسابقات فقط</div>`).insertBefore('span.fl.fa.fa-send');
@@ -128,6 +128,16 @@ for(var i = 0; i < btns.length; i++){ btns[i].style.cssText = 'background-color:
 
 <button id="clr3" class="colorsB" type="button" onclick="alwanAhmed2();
 function alwanAhmed2() {	
+var elements = document.getElementsByClassName('label-primary'); 
+var btns = document.getElementsByClassName('btn-primary');
+for(var i = 0; i < elements.length; i++){ elements[i].style.cssText = 'background-color:#8AA2A9 !important; width:100%;';
+}
+for(var i = 0; i < btns.length; i++){ btns[i].style.cssText = 'background-color:#717C89 !important';
+	}
+};"></button>
+
+<button id="clr4" class="colorsB" type="button" onclick="alwanMuhannad2();
+function alwanMuhannad2() {	
 var elements = document.getElementsByClassName('label-primary'); 
 var btns = document.getElementsByClassName('btn-primary');
 for(var i = 0; i < elements.length; i++){ elements[i].style.cssText = 'background-color:#8AA2A9 !important; width:100%;';
