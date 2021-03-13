@@ -1,19 +1,19 @@
 $(`<img src="sico/z1f0jsnfo510.gif" class="fr" style="width:100%;margin-top: 0px;">
 <a id="des3" href="#" style="border-radius: 5px 0px 5px 0px;width:23%;margin:2px;" class="fl mini  fa  fa-
- btn btn-primary"> Ø§Ù„ØªØ·Ø¨ÙŠÙ‚</a>
+ btn btn-primary"> اتصل بنا‚</a>
 <a id="des3" href="/esh.html" style="border-radius: 5px 0px 5px 0px;width:23%;margin:2px;" class="fl mini  fa   fa-
- btn btn-default">Ø§Ù„Ø§Ø´ØªØ±Ø§Ùƒ</a>
+ btn btn-default">قوانين قمر الشام</a>
 <a id="des3" href="/rules.html" style="border-radius: 5px 0px 5px 0px;width:27%;margin:2px;" class="fl mini  fa fa-
-btn btn-primary"> Ù‚ÙˆØ§Ù†ÙŠÙ† Ù…ÙˆÙ‚Ø¹</a>
+btn btn-primary">الاشتراكات</a>
 <a id="des3" href="/contact.html" style="border-radius: 5px 0px 5px 0px;width:22%;margin:2px;" class="fl mini  fa fa-
-btn btn-default"> Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
+btn btn-default">الادارة</a>
  `).insertBefore('.nav-tabs');$("div#tlogins button.btn.btn-primary").click(function(){var myVar=setInterval(function(){var usmsgw=$(".pmsgc").length;if(usmsgw>0){$(`
     <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://chatjawwal.com/sico/z1e3i6isuu10.jpg);" class="fl fitimg hand u-pic    ">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(#);" class="fl fitimg hand u-pic    ">
       <div class="uzr fl" style="padding:0px;width:80%">
         <div style="padding:0px;width:100%;" class="fl">
           <img class="fl u-ico" alt="" src="    >
-          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand">   - Ø´Ø§Øª Ø¬ÙˆØ§Ù„ ÙÙ„Ø³Ø·ÙŠÙ† â™ª âœ˜   </span>
+          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand">   شات قمر الشام    </span>
         </div>
         <br>
         <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl">
@@ -35,9 +35,8 @@ pointer-events:none;
  margin-bottom: 5px;
  "src="#"></div><center>`).appendTo("div#chats"),clearInterval(c)):console.log(a)},1)});$(`<button onfa-microphone="alert('Ù‚Ø±ÙŠØ¨Ø§')" style="width:31px;margin:2px;" style="margin-top:2px;margin-left:2px;" class="fa fa-video-camera fl btn btn-danger"></button>`).insertBefore('button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary');$('.nav-tabs').addClass('fl').css('width','100%'),$(`<button style="width:24px;margin:2px;" style="margin-top:2px;margin-left:2px;" class="fa fa-microphone fl btn btn-info"></button>`).insertBefore('button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary');$
 $(` <center><div width="99%" id="asim7"><font style="background-color:#FFFFFF;color:#BF4A47;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" > 
- (  Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ø­Ø§Ø¦Ø· Ù…Ù…Ù†ÙˆØ¹Ù‡)  </font></div><center>`).insertBefore('div#d2bc');$(`<marquee direction="right" width="65%" direction="right" style="margin-bottom: -7px;font-family: 'Changa', sans-serif; height: 20px;" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5"><font style="background-color: #B7B6BA;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;"> 
-Ù…ÙØ±Ø­Ø¨ Ø¨Ø§Ù„Ø¬Ù…ÙŠØ¹ Ù‡Ø°Ù‡ Ø³ÙŽÙ…Ø§Ø¡ Ø°Ø§ØªÙ Ø³ÙŽØ¹Ø© Ùˆ Ø§Ù…Ù’ØªÙØ¯Ø§Ø¯ ØŒÙˆ Ø£Ù†ØªÙ… Ù†Ø¬ÙˆÙ…Ù‡Ø§. Ù†Ø­Ù†  Ø§Ù„Ù…Ù…ÙŠØ²ÙˆÙ† ÙˆØ§Ù„Ø¨Ø§Ù‚ÙŠ Ø§Ù„Ù…Ù‚Ù„Ø¯ÙˆÙ†  )
-</marquee></font></b></td>
+ (  شات قمر الشام يرحم بكم  </font></div><center>`).insertBefore('div#d2bc');$(`<marquee direction="right" width="65%" direction="right" style="margin-bottom: -7px;font-family: 'Changa', sans-serif; height: 20px;" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5"><font style="background-color: #B7B6BA;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;"> 
+#####</marquee></font></b></td>
 `).insertBefore('span.s1.fa.fa-user.label.badgex.label-as-badge.label-success');$(".fa-gear").text("Ø§Ù„Ø§Ø¹Ø¯Ø§Ø¯Ø§Øª").css("width","");$(`<label onclick="window.open('cp?token='+token,'_blank');" style="background-color: ghostwhite;color: black;margin:4px; padding:8px;width:98%;" class="label tc border cp  btn  label-danger fl"><span class="fl fa fa-star"></span>Ø§Ø¯Ø§Ø±Ø© Ø¨ÙŠØ§Ù†Ø§Øª Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</label>`).insertAfter('#settings label.label.tc.border.btn.fl[onclick="sendpic();"]');Tsend_=Tsend;reqlikes=200;Tsend=function(){if(getuser(myid).rep<reqlikes){alert(' Ù„Ø¥ ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ù„ÙƒØªØ§Ø¨Ø© Ø¹Ø§Ù… ÙŠØªØ·Ù„Ø¨ Ù…Ù†Ùƒ Ø§Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ Ù„Ø§ÙŠÙƒØ§Øª'+reqlikes+' ');return;}else{Tsend_();}}
 setprofile_=setprofile;reqlikes=200;setprofile=function(){if(getuser(myid).rep<reqlikes){alert('Ù„Ø§ ÙŠÙ…ÙƒÙ†Ùƒ Ø­ÙØ¸ Ø§Ù„Ø£Ø¹Ø¯Ø§Ø¯Ø§Øª ÙŠØªØ·Ù„Ø¨ Ù…Ù†Ùƒ Ø§Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ Ù„Ø§ÙŠÙƒØ§Øª '+reqlikes+'');return;}else{setprofile_();}}
 $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(`<a class="fl mini fa fa-bullhorn  btn btnn-default"></a><input type="jfa-w" name="FirstName" value="Ø§Ù„Ø¨Ø« Ø§Ù„Ù…Ø¨Ø§Ø´Ø± Ù‚Ø±ÙŠØ¨Ø§"><audio src="...." controls loop></audio><input type="jfa-w" name="FirstName" value="Ø³ÙˆØ±Ø© Ø§Ù„Ø­Ø¬Ø±"><audio src="https://chatpalestine.me/SaHeR2.mp3" controls loop></audio><input type="jfa-w" name="FirstName" value="Ø³ÙˆØ±Ø© Ø§Ù„Ù†Ù…Ù„"><audio src="https://chatpalestine.me/SaHeR1.mp3" controls loop></audio></div><center>`).appendTo("#settings"),clearInterval(b)):console.log(c)},1)});$
