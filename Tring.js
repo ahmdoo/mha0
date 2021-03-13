@@ -27,7 +27,7 @@ $('.nav-tabs').addClass('fl').css('width','100%');$('a[href="https://jawalhost.c
 <style>
 textarea.fl.filw.corner.tbox {border-radius: 10px;padding-left: 5px;border: 2px solid #adadad;margin-top: 2px;}
 .label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 2px solid #316C7D;font-family: 'El Messiri',FontAwesome;border-radius: 3px;}
-
+#l1,l2,l3 {margin-bottom: -10px!important;}
 </style>`).insertBefore('body');$('.hand.nosel.fl.uzr.border').css({'margin':'0px',borderRight:'3px solid #316C7D',borderLeft:'3px solid #316C7D',borderTop:'1px solid #e2e1e1',borderBottom:'1px solid #e2e1e1',borderRadius:'3px'});$(`<center><div><div width="75.5%" style="background-color: #b7c3c5; color: #BF4A47;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;"  
 ><font style="background-color: #fff;border-radius: 0px 25px 0px 25px;font-family: 'Cairo', sans-serif, FontAwesome;padding: 2px 10px 2px 10px; margin:0px 25px 0px 25px;" >شات قمر الشام يرحب بكم</font></div></div><center>`).insertBefore('#d2');$(`<img style="height:50px;width: 100%;margin-right: 5px;background-color: #DE9DA5;" src="#" border="0">`).insertBefore('div#d2bc');$('.break.light').css({"background-image":"url(#)"});(document.getElementById("tbox").placeholder="شات قمر الشام");$("div#tlogins button.btn.btn-primary").click(function(){var c=setInterval(function(){var a=$(".pmsgc").length;0<a?($(`<img style="height: 99.3%;
 width:99%;
